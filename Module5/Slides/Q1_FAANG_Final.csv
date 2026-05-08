@@ -1,0 +1,151 @@
+Date,Ticker,Closing_Price,Opening_Price,Company Name,URL, StockDetails
+2026-01-02,AAPL,270.75665283203125,272.0054842546519,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-02,AMZN,226.5,231.33999633789065,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-02,GOOGL,315.1499938964844,316.8999938964844,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-02,META,650.4099731445312,662.72998046875,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-02,NFLX,90.98999786376952,94.12999725341795,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-05,AAPL,267.0101623535156,270.38700744645297,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-05,AMZN,233.05999755859372,228.83999633789065,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-05,GOOGL,316.5400085449219,317.6600036621094,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-05,META,658.7899780273438,651.010009765625,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-05,NFLX,91.45999908447266,90.91999816894533,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-06,AAPL,262.1147155761719,266.7503924619391,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-06,AMZN,240.92999267578125,232.1000061035156,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-06,GOOGL,314.3399963378906,316.3999938964844,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-06,META,660.6199951171875,659.5700073242188,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-06,NFLX,90.6500015258789,91.54000091552734,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-07,AAPL,260.08660888671875,262.95395138764474,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-07,AMZN,241.55999755859372,239.6100006103516,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-07,GOOGL,321.9800109863281,314.3599853515625,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-07,META,648.6900024414062,655.6400146484375,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-07,NFLX,90.7300033569336,91.55999755859376,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-08,AAPL,258.7978515625,256.7797203952787,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-08,AMZN,246.2899932861328,243.05999755859372,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-08,GOOGL,325.44000244140625,328.9700012207031,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-08,META,646.0599975585938,645.8800048828125,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-08,NFLX,90.52999877929688,90.4499969482422,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-09,AAPL,259.1275329589844,258.8377955175017,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-09,AMZN,247.3800048828125,244.57000732421875,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-09,GOOGL,328.57000732421875,327.0899963378906,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-09,META,653.0599975585938,645.4400024414062,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-09,NFLX,89.45999908447266,90.02999877929688,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-12,AAPL,260.0067138671875,258.9177364764393,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-12,AMZN,246.47000122070312,246.72999572753903,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-12,GOOGL,331.8599853515625,325.79998779296875,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-12,META,641.969970703125,652.530029296875,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-12,NFLX,89.41000366210938,89.69000244140625,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-13,AAPL,260.8059387207031,258.4781303943212,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-13,AMZN,242.6000061035156,246.52999877929688,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-13,GOOGL,335.9700012207031,334.95001220703125,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-13,META,631.0900268554688,642.27001953125,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-13,NFLX,90.31999969482422,89.44000244140625,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-14,AAPL,259.71697998046875,259.247418118488,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-14,AMZN,236.6499938964844,241.1499938964844,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-14,GOOGL,335.8399963378906,335.0599975585937,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-14,META,615.52001953125,626.5,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-14,NFLX,88.55000305175781,91.23999786376952,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-15,AAPL,257.9685974121094,260.40631875644857,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-15,AMZN,238.17999267578125,239.30999755859372,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-15,GOOGL,332.7799987792969,337.6499938964844,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-15,META,620.7999877929688,618.47998046875,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-15,NFLX,88.05000305175781,89.0199966430664,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-16,AAPL,255.29112243652344,257.6589020182799,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-16,AMZN,239.1199951171875,239.08999633789065,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-16,GOOGL,330.0,334.4100036621094,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-16,META,620.25,624.1799926757812,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-16,NFLX,88.0,88.33999633789062,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-20,AAPL,246.4693756103516,252.49373739571587,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-20,AMZN,231.0,233.75999450683597,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-20,GOOGL,322.0,320.8699951171875,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-20,META,604.1199951171875,607.8800048828125,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-20,NFLX,87.26000213623047,88.97000122070312,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-21,AAPL,247.41848754882807,248.4675090444481,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-21,AMZN,231.30999755859372,231.08999633789065,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-21,GOOGL,328.3800048828125,320.9200134277344,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-21,META,612.9600219726562,606.739990234375,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-21,NFLX,85.36000061035156,82.5199966430664,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-22,AAPL,248.1178436279297,248.96703988447877,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-22,AMZN,234.33999633789065,234.0500030517578,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-22,GOOGL,330.5400085449219,334.45001220703125,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-22,META,647.6300048828125,629.3499755859375,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-22,NFLX,83.54000091552734,85.0199966430664,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-23,AAPL,247.80812072753903,247.0888078223564,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-23,AMZN,239.16000366210935,234.9600067138672,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-23,GOOGL,327.92999267578125,332.489990234375,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-23,META,658.760009765625,644.77001953125,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-23,NFLX,86.12000274658203,83.43000030517578,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-26,AAPL,255.17123413085935,251.24490015634893,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-26,AMZN,238.4199981689453,239.97999572753903,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-26,GOOGL,333.260009765625,327.8099975585937,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-26,META,672.3599853515625,665.1300048828125,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-26,NFLX,85.69999694824219,86.91999816894531,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-27,AAPL,258.0285339355469,258.92771692213245,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-27,AMZN,244.67999267578125,239.69000244140625,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-27,GOOGL,334.54998779296875,335.3699951171875,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-27,META,672.969970703125,674.5900268554688,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-27,NFLX,85.58000183105469,85.27999877929688,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-28,AAPL,256.2002868652344,257.409147241713,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-28,AMZN,243.00999450683597,246.3699951171875,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-28,GOOGL,336.010009765625,336.0599975585937,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-28,META,668.72998046875,674.5,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-28,NFLX,84.63999938964844,85.62999725341797,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-29,AAPL,258.0385437011719,257.75880668092503,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-29,AMZN,241.72999572753903,242.82000732421875,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-29,GOOGL,338.25,340.29998779296875,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-29,META,738.3099975585938,737.4299926757812,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-29,NFLX,83.16000366210938,84.30999755859375,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-01-30,AAPL,259.2374267578125,254.9314433110553,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-01-30,AMZN,239.3000030517578,239.88999938964844,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-01-30,GOOGL,338.0,340.0,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-01-30,META,716.5,727.5,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-01-30,NFLX,83.48999786376953,83.0999984741211,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-02,AAPL,269.7575988769531,259.7869174093499,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-02,AMZN,242.9600067138672,238.30999755859372,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-02,GOOGL,343.69000244140625,336.2200012207031,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-02,META,706.4099731445312,714.5999755859375,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-02,NFLX,82.76000213623047,83.52999877929688,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-03,AAPL,269.22808837890625,268.9483513556569,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-03,AMZN,238.6199951171875,244.97999572753903,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-03,GOOGL,339.7099914550781,347.3399963378906,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-03,META,691.7000122070312,707.3699951171875,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-03,NFLX,79.94000244140625,82.2300033569336,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-04,AAPL,276.23150634765625,272.03545112075,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-04,AMZN,232.9900054931641,238.8600006103516,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-04,GOOGL,333.0400085449219,342.9599914550781,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-04,META,668.989990234375,687.72998046875,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-04,NFLX,80.16000366210938,79.98999786376953,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-05,AAPL,275.6520690917969,277.86999494352693,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-05,AMZN,222.69000244140625,224.91000366210935,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-05,GOOGL,331.25,312.2200012207031,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-05,META,670.2100219726562,663.5800170898438,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-05,NFLX,80.87000274658203,81.48999786376953,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-06,AAPL,277.8599853515625,276.8609202349588,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-06,AMZN,210.32000732421875,202.6999969482422,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-06,GOOGL,322.8599853515625,327.17999267578125,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-06,META,661.4600219726562,665.489990234375,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-06,NFLX,82.19999694824219,81.0199966430664,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-09,AAPL,274.6199951171875,277.9100036621094,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-09,AMZN,208.72000122070312,208.97000122070312,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-09,GOOGL,324.32000732421875,320.92999267578125,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-09,META,677.219970703125,663.1799926757812,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-09,NFLX,81.47000122070312,82.18000030517578,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-10,AAPL,273.67999267578125,274.8900146484375,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-10,AMZN,206.9600067138672,208.8000030517578,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-10,GOOGL,318.5799865722656,320.9700012207031,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-10,META,670.719970703125,677.5999755859375,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-10,NFLX,82.20999908447266,82.72000122070312,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-11,AAPL,275.5,274.70001220703125,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-11,AMZN,204.0800018310547,208.05999755859372,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-11,GOOGL,310.9599914550781,318.9700012207031,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-11,META,668.6900024414062,674.0,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-11,NFLX,79.62000274658203,81.95999908447266,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-12,AAPL,261.7300109863281,275.5899963378906,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-12,AMZN,199.6000061035156,203.9600067138672,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-12,GOOGL,309.0,312.0899963378906,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-12,META,649.8099975585938,669.969970703125,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-12,NFLX,75.86000061035156,79.11000061035156,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
+2026-02-13,AAPL,255.77999877929688,262.010009765625,Apple Inc.,https://www.apple.com, https://finance.yahoo.com/quote/AAPL/
+2026-02-13,AMZN,198.7899932861328,198.8800048828125,"Amazon.com, Inc.",https://www.amazon.com, https://finance.yahoo.com/quote/AMZN/
+2026-02-13,GOOGL,305.7200012207031,307.7300109863281,Alphabet Inc. (Google LLC),https://www.abc.xyz, https://finance.yahoo.com/quote/GOOG/
+2026-02-13,META,639.77001953125,645.0999755859375,"Meta Platforms, Inc.",https://www.meta.com, https://finance.yahoo.com/quote/META/
+2026-02-13,NFLX,76.87000274658203,76.13999938964844,"Netflix, Inc.",https://www.netflix.com, https://finance.yahoo.com/quote/NFLX/
